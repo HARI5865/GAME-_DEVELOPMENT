@@ -1,8 +1,6 @@
 # EX 4 : ELLIPSE DRAWING ALGORITHM
 
-NAME : MOHAMED NIZAMUDDIN A
 
-REG NO: 212224040194
 
 **AIM :**
 
@@ -36,7 +34,6 @@ Step 7 : stop.
 
 
 **Program :**
-
 ```
 #include "stdio.h" 
 #include "conio.h" 
@@ -113,12 +110,14 @@ int plotpoints(int xcenter,int ycenter,int x,int y)
 }
 ```
 
-
 **Output :**
 
-![ellipsegamedevlopment](https://github.com/user-attachments/assets/51b06629-23d3-4109-91e3-f236dba53d95)
+<img width="641" height="510" alt="image" src="https://github.com/user-attachments/assets/bca325b4-9222-408d-8a5a-0b062f889626" />
+
 
 
 **Result :**
 
-Thus the Bresenham’s  algorithm for ellipse using a c coding is implemented successfully .
+The Midpoint Algorithm for Ellipse was executed and verified successfully.
+
+
